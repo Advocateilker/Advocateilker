@@ -25,6 +25,9 @@ Looking forward to connecting and sharing experiences!
 
 I am currently learning => React & Typescript
 
+
+[![](https://visitcount.itsvg.in/api?id=Advocateilker&icon=0&color=0)](https://visitcount.itsvg.in)
+
 I will reach my goal soon...
 
 
