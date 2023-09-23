@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Advocateilker&color=blueviolet)
+
 # 💫 About Me:
  * Hello my name is Mustafa İlker Tekir
  * I am a lawyer who wants to be a expert front end developer
