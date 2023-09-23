@@ -2,7 +2,7 @@
 
 # 💫 About Me:
  * Hello my name is Mustafa İlker Tekir
- * I am a lawyer who wants to be a expert front end developer
+ * I am front-end developer
 
 Throughout my career, I have had the opportunity to work on projects that embrace modern web technologies and prioritize user experience. Leveraging HTML, CSS, and JavaScript, I have successfully built modular and scalable components using the powerful React.js library.
 
